@@ -47,7 +47,7 @@ Kartini Abd. Wahab dan Hiroki Nomoto. 2018. _Korpus Variasi Bahasa Melayu: Sabah
 1. KL = Kuala Lumpur
 1. Ko Nelayan = (nama kawasan pelancongan)
 
-### Singkatan & Petunjuk
+### Petunjuk
 
 1. Lubuk = (nama kampung)
 1. Lubuk Darat, Lingkungan = (nama kampung)
