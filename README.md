@@ -6,11 +6,11 @@ Kartini Abd. Wahab dan Hiroki Nomoto. 2018. _Korpus Variasi Bahasa Melayu: Sabah
 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ms)
 
 ## Isi Kandungan
-|Fail       |Topik               |Jenis    |Durasi|Jumlah token|
-|:----------|:-------------------|:--------|-----:|----:|
-|Sabah201701|Peristiwa menakutkan|Perbualan| 12:08|2,915|
-|Sabah201702|Kampung halaman     |Perbualan| 15:42|3,935|
-|Jumlah     |                    |         | 27:50|6,850|
+|Fail       |Topik               |Jenis |Durasi|Jumlah token|
+|:----------|:-------------------|:-----|-----:|----:|
+|Sabah201701|Peristiwa menakutkan|Dialog| 12:08|2,915|
+|Sabah201702|Kampung halaman     |Dialog| 15:42|3,935|
+|Jumlah     |                    |      | 27:50|6,850|
 
 ## Notasi
 
