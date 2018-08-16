@@ -45,7 +45,7 @@ Kartini Abd. Wahab dan Hiroki Nomoto. 2018. _Korpus Variasi Bahasa Melayu: Sabah
 
 1. KK = Kota Kinabalu
 1. KL = Kuala Lumpur
-1. Ko Nelayan = (nama kawasan pelancongan)
+1. Ko Nelayan = Korporasi Kemajuan Perikanan dan Nelayan
 
 ### Petunjuk
 
