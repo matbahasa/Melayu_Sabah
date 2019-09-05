@@ -181,7 +181,7 @@ A:	Ini bangun.
 A:	Ini bangun.
 A:	Ni bangun.
 A:	Ni bangun.
-A:	Ni bangunn.
+A:	Ni bangun.
 A:	Blok lelaki bangun.
 A:	Aa, mau mengejar pencuri.
 A:	Jadi, pelajar lelaki naik dari bukit sini.
