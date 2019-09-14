@@ -1,4 +1,4 @@
-# Korpus Variasi Bahasa Melayu: Sabah
+﻿# Korpus Variasi Bahasa Melayu: Sabah
 ## Rujukan
 Kartini Abd. Wahab dan Hiroki Nomoto. 2018. _Korpus Variasi Bahasa Melayu: Sabah_.
 
@@ -6,11 +6,30 @@ Kartini Abd. Wahab dan Hiroki Nomoto. 2018. _Korpus Variasi Bahasa Melayu: Sabah
 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ms)
 
 ## Isi Kandungan
-|Fail       |Topik               |Jenis |Durasi|Jumlah token|
-|:----------|:-------------------|:-----|-----:|----:|
-|Sabah201701|Peristiwa menakutkan|Dialog| 12:08|2,915|
-|Sabah201702|Kampung halaman     |Dialog| 15:42|3,935|
-|Jumlah     |                    |      | 27:50|6,850|
+|Fail       |Topik                            |Jenis  |Durasi|Jumlah token|ID penutur|
+|:----------|:--------------------------------|:-----:|-----:|-----------:|:--------:|
+|Sabah201701|Peristiwa menakutkan             |Dialog | 12:08|2,917       | 1 & 2    |
+|Sabah201702|Kampung halaman                  |Dialog | 15:42|3,939       | 1 & 3    |
+|Sabah201901|Musang dan gagak (dengan gambar) |Monolog|  1:48|  180       | 4        |
+|Sabah201902|Musang dan gagak (tanpa gambar)  |Monolog|  1:17|  152       | 4        |
+|Sabah201903|Musang dan gagak (sebagai watak) |Monolog|  2:30|  223       | 4        |
+|Sabah201904|Musang dan gagak (dengan gambar) |Monolog|  1:15|   94       | 5        |
+|Sabah201905|Musang dan gagak (tanpa gambar)  |Monolog|  0:44|   61       | 5        |
+|Sabah201906|Musang dan gagak (sebagai watak) |Monolog|  1:31|  104       | 5        |
+|Sabah201907|Musang dan gagak (dengan gambar) |Monolog|  1:18|  150       | 6        |
+|Sabah201908|Musang dan gagak (tanpa gambar)  |Monolog|  1:00|  138       | 6        |
+|Sabah201909|Musang dan gagak (sebagai watak) |Monolog|  0:45|  108       | 6        |
+|Jumlah     |                                 |       | 39:58|8,066       |          |
+
+## Maklumat penutur
+|ID|Bahasa lain    |Tempat asal|
+|-:|:--------------|:----------|
+|1 |tiada          |Sandakan   |
+|2 |Dusun          |Tenom      |
+|3 |Melayu Barunai |Weston     |
+|4 |Suluk          |Sandakan   |
+|5 |Suluk          |Semporna   |
+|6 |Dusun          |Tambunan   |
 
 ## Notasi
 
@@ -45,7 +64,7 @@ Kartini Abd. Wahab dan Hiroki Nomoto. 2018. _Korpus Variasi Bahasa Melayu: Sabah
 
 1. KK = Kota Kinabalu
 1. KL = Kuala Lumpur
-1. Ko Nelayan = Korporasi Kemajuan Perikanan dan Nelayan
+1. Ko Nelayan = (nama kawasan pelancongan)
 
 ### Petunjuk
 
